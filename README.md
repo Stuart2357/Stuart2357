@@ -1,4 +1,4 @@
-# Data Science student
+# Data Science Student
 
   ### Study
   At [Hyperiondev] (https://www.hyperiondev.com)
